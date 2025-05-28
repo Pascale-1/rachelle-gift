@@ -46,7 +46,7 @@ st.title("🎁 Hey heeeeeey Rachelle, it's your surprise gift Page Reveal!")
 st.markdown("""
 <div class="gratitude">
     <span class="balloon-emoji">🎈</span>
-    Welcome back to Alma, Rachelle! <br>
+    We are happy to have you back, Rachelle! <br>
     We wanted to find a special way to celebrate your return. <br>
     (Sorry this is a little late—totally on me!)
 </div>
